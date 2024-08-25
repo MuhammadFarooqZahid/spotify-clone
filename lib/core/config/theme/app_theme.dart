@@ -7,14 +7,20 @@ class AppTheme {
     scaffoldBackgroundColor: AppColors.lightBackground,
     brightness: Brightness.light,
     fontFamily: 'Satoshi',
-    elevatedButtonTheme: ElevatedButtonThemeData(
-      style: ElevatedButton.styleFrom(
-        backgroundColor: AppColors.primary,
-        textStyle: const TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
-        shape: RoundedRectangleBorder(
-          borderRadius: BorderRadius.circular(30),
-        )
-      ),
+    filledButtonTheme: FilledButtonThemeData(
+      style: FilledButton.styleFrom(
+          backgroundColor: AppColors.primary,
+          fixedSize: const Size.fromHeight(70),
+          foregroundColor: Colors.white,
+          textStyle: const TextStyle(
+            fontSize: 20,
+            fontWeight: FontWeight.w700,
+            fontFamily: "Satoshi",
+            color: Colors.white,
+          ),
+          shape: RoundedRectangleBorder(
+            borderRadius: BorderRadius.circular(30),
+          )),
     ),
   );
 
@@ -23,14 +29,19 @@ class AppTheme {
     scaffoldBackgroundColor: AppColors.darkBackground,
     brightness: Brightness.dark,
     fontFamily: 'Satoshi',
-    elevatedButtonTheme: ElevatedButtonThemeData(
-      style: ElevatedButton.styleFrom(
-        backgroundColor: AppColors.primary,
-        textStyle: const TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
-        shape: RoundedRectangleBorder(
-          borderRadius: BorderRadius.circular(30),
-        )
-      ),
+    filledButtonTheme: FilledButtonThemeData(
+      style: FilledButton.styleFrom(
+          fixedSize: const Size.fromHeight(70),
+          backgroundColor: AppColors.primary,
+          foregroundColor: Colors.white,
+          textStyle: const TextStyle(
+            fontSize: 20,
+            fontWeight: FontWeight.w700,
+            fontFamily: "Satoshi",
+          ),
+          shape: RoundedRectangleBorder(
+            borderRadius: BorderRadius.circular(30),
+          )),
     ),
   );
 }

@@ -1,0 +1,179 @@
+{
+    "@@locale": "en",
+
+    "getStarted": "Get Started",
+    "@getStarted": {
+      "description": "Get Started Button"
+    },
+    
+    "continuebtn": "Continue",
+    "@continuebtn": {
+      "description": "Continue Button"
+    },
+    
+    "register": "Register",
+    "@register": {
+      "description": "Button to register a new user"
+    },
+    
+    "signIn": "Sign in",
+    "@signIn": {
+      "description": "Button to sign in"
+    },
+    
+    "clickHere": "Click here",
+    "@clickHere": {
+      "description": "Instruction to click a link or button"
+    },
+    
+    "spotifyDescription": "Spotify is a proprietary Swedish audio streaming and media services provider",
+    "@spotifyDescription": {
+      "description": "Description of Spotify service"
+    },
+    
+    "introHeading": "Enjoy listening to music",
+    "@introHeading": {
+      "description": "Introductory heading on the welcome screen"
+    },
+    
+    "introSubheading": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sagittis enim purus sed phasellus. Cursus ornare id scelerisque aliquam.",
+    "@introSubheading": {
+      "description": "Introductory subheading on the welcome screen"
+    },
+    
+    "chooseMode": "Choose mode",
+    "@chooseMode": {
+      "description": "Prompt to choose between dark or light mode"
+    },
+    
+    "darkMode": "Dark Mode",
+    "@darkMode": {
+      "description": "Option to select dark mode"
+    },
+    
+    "lightMode": "Light Mode",
+    "@lightMode": {
+      "description": "Option to select light mode"
+    },
+    
+    "supportPrompt": "If you need any support",
+    "@supportPrompt": {
+      "description": "Prompt for user support"
+    },
+    
+    "enterUsernameOrEmail": "Enter username or email",
+    "@enterUsernameOrEmail": {
+      "description": "Prompt to enter username or email"
+    },
+    
+    "password": "Password",
+    "@password": {
+      "description": "Label for password input"
+    },
+    
+    "recoveryPassword": "Recovery password",
+    "@recoveryPassword": {
+      "description": "Prompt to recover password"
+    },
+    
+    "or": "or",
+    "@or": {
+      "description": "Logical OR"
+    },
+    
+    "notAMember": "Not a member",
+    "@notAMember": {
+      "description": "Prompt for users who are not registered"
+    },
+    
+    "registerNow": "Register now",
+    "@registerNow": {
+      "description": "Prompt to register immediately"
+    },
+    
+    "fullName": "Full name",
+    "@fullName": {
+      "description": "Label for full name input"
+    },
+    
+    "enterEmail": "Enter email",
+    "@enterEmail": {
+      "description": "Prompt to enter an email address"
+    },
+    
+    "createAccount": "Create account",
+    "@createAccount": {
+      "description": "Button to create a new account"
+    },
+    
+    "doYouHaveAccount": "Do you have an account",
+    "@doYouHaveAccount": {
+      "description": "Prompt asking if the user already has an account"
+    },
+    
+    "news": "News",
+    "@news": {
+      "description": "Section for news"
+    },
+    
+    "video": "Video",
+    "@video": {
+      "description": "Section for videos"
+    },
+    
+    "artists": "Artists",
+    "@artists": {
+      "description": "Section for artists"
+    },
+    
+    "podcast": "Podcast",
+    "@podcast": {
+      "description": "Section for podcasts"
+    },
+    
+    "playlist": "Playlist",
+    "@playlist": {
+      "description": "Section for playlists"
+    },
+    
+    "seeMore": "See more",
+    "@seeMore": {
+      "description": "Button to see more content"
+    },
+    
+    "nowPlaying": "Now playing",
+    "@nowPlaying": {
+      "description": "Label for the currently playing media"
+    },
+    
+    "lyrics": "Lyrics",
+    "@lyrics": {
+      "description": "Section for song lyrics"
+    },
+    
+    "profile": "Profile",
+    "@profile": {
+      "description": "Section for user profile"
+    },
+    
+    "followers": "Followers",
+    "@followers": {
+      "description": "Label for user followers"
+    },
+    
+    "publicPlaylists": "Public playlists",
+    "@publicPlaylists": {
+      "description": "Label for public playlists"
+    },
+    
+    "album": "Album",
+    "@album": {
+      "description": "Label for album"
+    },
+    
+    "track": "Track",
+    "@track": {
+      "description": "Label for track"
+    }
+  }
+  
